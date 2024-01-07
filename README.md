@@ -16,8 +16,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/vinodhkumar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vinodhkumar" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinodhkumar-offl&show_icons=true&locale=en&layout=compact" alt="vinodhkumar-offl" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinodhkumar-offl&show_icons=true&locale=en" alt="vinodhkumar-offl" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinodhkumar-offl&" alt="vinodhkumar-offl" /></p>
